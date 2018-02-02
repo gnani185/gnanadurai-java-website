@@ -97,7 +97,7 @@
 					<version>2.1.1</version>
 					<configuration>
 						<outputDirectory>webapps</outputDirectory>
-						<warName>ROOT</warName>
+						<warName>gnanadurai-website</warName>
 					</configuration>
 				</plugin>
 			</plugins>
